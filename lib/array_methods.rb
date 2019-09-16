@@ -30,5 +30,5 @@ def find_min_value(array)
     end
       num += 1
     end
-  return largest_value
+  return smallest_value
 end
