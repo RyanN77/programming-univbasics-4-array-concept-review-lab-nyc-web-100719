@@ -1,7 +1,7 @@
 def find_element_index(array, value_to_find)
   num = 0
   while num < array.length
-    if array[num] = value_to_find
+    if array[num] == value_to_find
     return num
     else 
     num += 1
